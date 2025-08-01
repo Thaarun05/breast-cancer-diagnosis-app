@@ -1,0 +1,21 @@
+Left,Left Lower Inner Quadrant,Left Lower Outer Quadrant,Left Upper Inner Quadrant,Left Upper Outer Quadrant,Right,Right Lower Inner Quadrant,Right Lower Outer Quadrant,Right Upper Inner Quadrant,Right Upper Outer Quadrant
+0,0,0,1,0,0,0,0,0,0
+0,0,0,0,1,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,1
+0,0,0,0,0,1,0,0,0,0
+0,0,1,0,0,0,0,0,0,0
+0,0,0,0,0,1,0,0,0,0
+1,0,0,0,0,0,0,0,0,0
+0,0,0,0,1,0,0,0,0,0
+0,0,0,0,1,0,0,0,0,0
+1,1,0,0,0,0,0,0,0,0
+0,0,0,0,0,1,1,1,1,1
+0,0,0,1,0,0,0,0,0,0
+0,0,0,0,0,1,0,0,0,0
+0,0,0,0,0,1,0,0,0,0
+0,0,0,0,1,0,0,0,0,0
+0,0,0,0,0,0,0,1,0,0
+1,0,0,0,1,0,0,0,0,0
+1,1,0,1,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,1
+0,0,0,0,0,0,0,0,0,1
