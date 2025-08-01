@@ -1,0 +1,87 @@
+,file_name,ajcc_metastasis_pathologic_pm,ajcc_pathologic_tumor_stage,anatomic_neoplasm_subdivision,metastasis_site,"concat(p.ajcc_metastasis_pathologic_pm ,'_', p.bcr_patient_uuid)"
+0,57770094-b4ac-4ea7-9e37-3ec739bc4367.methylation_array.sesame.level3betas.txt,M1,Stage IV,Left,Bone,M1_16FC3677-0393-4ED1-AD3F-C8355F056369
+1,c1382633-aefb-47a4-ac46-cf8333ac259b.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Right Upper Outer Quadrant,[Not Available],M0_a5b44d66-c162-46b5-9df2-86305f0385c5
+2,a64390d2-cb0a-421a-994f-89de6226f5db.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Right,[Not Available],M0_a9bb8159-32f0-454c-a946-b3286a52b9d5
+3,88b4cc0a-4dba-4dd4-9cf6-7e1a532aa9e7.methylation_array.sesame.level3betas.txt,M1,Stage IV,Right,Bone,M1_ad01259b-d858-40bc-a6ba-0bb06e996afb
+4,e69ebfcf-b83c-4483-8726-1b7113323600.methylation_array.sesame.level3betas.txt,M1,Stage IV,Right,Liver,M1_991e1427-3c01-423d-abfd-4584302ca72c
+5,9e80379c-c9d4-4992-a0e5-7eb14202f7cd.methylation_array.sesame.level3betas.txt,M0,Stage IA,Left Upper Inner Quadrant,[Not Available],M0_18d35983-ea6a-4b70-a209-9bef37595956
+6,2d836431-c6a5-4845-99c6-ed399cdd6c91.methylation_array.sesame.level3betas.txt,M0,Stage IIB,Left Lower Outer Quadrant,[Not Available],M0_95c53f69-0f05-4348-822a-571f3d757001
+7,e67c69a7-6161-4dd5-9efe-9d13e632989a.methylation_array.sesame.level3betas.txt,M1,Stage IV,Right,Liver,M1_128d198e-9b22-427c-90db-3714455f3a17
+8,c9a71a6a-451c-43d6-a183-bf42adb6ba44.methylation_array.sesame.level3betas.txt,M0,Stage IIB,Right Upper Outer Quadrant,[Not Available],M0_84a88e8d-1e65-4b88-aae6-bf4c7a7e4c33
+9,dbaabcf3-acac-4aa5-b2fd-de2a70b14ac0.methylation_array.sesame.level3betas.txt,M0,Stage IIIA,Right,[Not Available],M0_295cf595-4a29-46a3-a0c5-e5f08f947031
+10,dc3946d3-e8d5-444c-b563-359dc9a31696.methylation_array.sesame.level3betas.txt,M0,Stage IIB,Left,[Not Available],M0_C72CB184-462D-4009-9CDB-848782FF8A76
+11,28ed505a-52bf-4776-9b5b-671352df0399.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Left Lower Outer Quadrant,[Not Available],M0_53886143-C1C6-40E9-88E6-E4E5E0271FC8
+12,e55c2d1d-9768-4db0-a999-906c2ba9301a.methylation_array.sesame.level3betas.txt,M0,Stage IIB,Left Upper Outer Quadrant,[Not Available],M0_DEBA32E4-0E68-4711-941B-3B63BD965AFB
+13,5286c887-e680-4983-8b73-1131509b20ef.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Right,[Not Available],M0_5ed024e8-d05e-4c65-9441-eda9930ccc82
+14,3fbd6aae-5efe-4f5a-8708-378dbfb54714.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Left,[Not Available],M0_DBF6F981-15CC-40AD-91AC-A66360405FBD
+15,022cd02a-89b7-4149-b64a-dec36d2a0241.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Right,[Not Available],M0_57AF5C72-0D60-4A6B-B1B4-EC6DAB90F80F
+16,7372c849-85a9-48ff-8838-ff10f705a099.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Left,[Not Available],M0_98E709E7-E195-4B37-9537-F6081AFFB609
+17,37d1d111-f2e6-4857-aa5a-426ac3f3c927.methylation_array.sesame.level3betas.txt,M0,Stage IIB,Right|Right Upper Outer Quadrant,[Not Available],M0_E8EA576B-EB16-44F7-B241-DAEFC1375388
+18,10ac6fba-c8ad-43bb-a873-f56ee2b62975.methylation_array.sesame.level3betas.txt,M1,Stage IV,Right,[Not Available],M1_5f5964a8-8e07-4620-98f0-93d162dbc31e
+19,b495987e-de19-440c-b3af-45ee2aa236ef.methylation_array.sesame.level3betas.txt,M0,Stage IIIB,Left Upper Outer Quadrant|Left Lower Outer Quadrant,[Not Available],M0_D9FD2724-7DB0-4AF3-AC14-217BDFA5203F
+20,a8bcda7e-2981-4cb0-b528-57845bf7507b.methylation_array.sesame.level3betas.txt,M1,Stage IV,Right Lower Outer Quadrant,Bone,M1_D5F2B85A-94A9-4168-BBE8-149EC71342B0
+21,9e10dfdc-4888-4eab-ae9a-98082ddb1b27.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Left Upper Outer Quadrant,[Not Available],M0_a1da9db1-db11-4f4d-a249-c738db81b87e
+22,9bc22ffb-9a34-4dc0-aba2-07658728a0c1.methylation_array.sesame.level3betas.txt,M0,Stage I,Left Upper Inner Quadrant|Left Upper Outer Quadrant|Left Lower Inner Quadrant|Left Lower Outer Quadrant|Left,[Not Available],M0_0685edd2-ce1c-4e0e-8dda-393139af4223
+23,b3742c03-439f-41b7-aee0-3b9a9ff90acb.methylation_array.sesame.level3betas.txt,M0,Stage IIIA,Left Upper Outer Quadrant|Left Lower Outer Quadrant|Left,[Not Available],M0_d5d8e76e-2f2a-49bc-ba0a-d51283611b16
+24,92a4a5a4-18d9-4fc4-bc82-cc7aaf0f387e.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Left,[Not Available],M0_b094e8b2-8ece-4b36-8025-18073a8b873c
+25,0e0af645-4a76-4c77-94de-7f06c87f3e24.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Right Lower Outer Quadrant|Right,[Not Available],M0_016caf42-4e19-4444-ab5d-6cf1e76c4afa
+26,d35e2ac5-eaf4-47be-a423-919674e5cd35.methylation_array.sesame.level3betas.txt,M0,Stage IIB,Left Lower Outer Quadrant|Left,[Not Available],M0_c70ee5e1-4703-4996-bb5c-f4cca0fb53ba
+27,1493e0c0-c224-4cdd-b300-6b92113724f7.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Right Upper Inner Quadrant,[Not Available],M0_b7f74ae1-6f58-447c-be50-a7666eb19d9a
+28,580125e5-7082-4a5d-a5ac-0008ef5e6cef.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Right Lower Outer Quadrant,[Not Available],M0_dfe6db17-cf45-488e-bd3c-b8433d7343ca
+29,09dc9b98-3cb3-4b2f-81cd-c834483f967c.methylation_array.sesame.level3betas.txt,M1,[Discrepancy],Left Upper Outer Quadrant,Bone,M1_c7c34fd9-3021-45b7-b6ff-30b4196585a8
+30,7fe172b3-ccfc-416e-a8b3-f318483efe16.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Left Upper Outer Quadrant,[Not Available],M0_71f97b63-c970-44ee-98c2-e02e663d5a40
+31,9be43b40-5704-48d8-bbbf-2e88dfbb6178.methylation_array.sesame.level3betas.txt,M0,Stage IIIA,Left Lower Inner Quadrant,[Not Available],M0_eda6d2d5-4199-4f76-a45b-1d0401b4e54c
+32,31b69991-c283-4a10-932e-246eaafb9220.methylation_array.sesame.level3betas.txt,M0,Stage I,Left Upper Outer Quadrant,[Not Available],M0_5fd9552a-c742-4388-940d-295d1107ae00
+33,6b70cda8-c6fc-4028-beb5-07ca38176378.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Right Lower Inner Quadrant,[Not Available],M0_d3d545b3-457f-4389-821f-704cb24aff7f
+34,b20f6e8e-79e9-411c-a218-e7935d252474.methylation_array.sesame.level3betas.txt,M0,Stage I,Right,[Not Available],M0_D093173F-08AB-4138-BF3C-399C45A6E163
+35,c6e8d29d-a0ba-4fd1-be3a-d2f4e4891b90.methylation_array.sesame.level3betas.txt,M0,Stage IIIA,Right,[Not Available],M0_3AF31FCF-AD0C-4FD9-A8E3-10F9176B5E9D
+36,2ddec12b-9eca-4bac-917b-c1aecb60fad4.methylation_array.sesame.level3betas.txt,M1,[Discrepancy],Left,[Not Available],M1_178b2c48-c07d-422e-ae17-8bcfd996ad51
+37,c8e84511-71ce-4938-a374-99980bf6d7ba.methylation_array.sesame.level3betas.txt,M1,Stage IV,Left Upper Inner Quadrant,Bone,M1_9434687A-197C-4959-B6B8-9C05F1DD7F53
+38,368edcf5-e8ed-43ff-9ed1-04fcf0650c37.methylation_array.sesame.level3betas.txt,M0,Stage IIIA,Left Upper Outer Quadrant,[Not Available],M0_D9A1C06F-7B50-46B0-878E-89E8C31863AE
+39,92621b83-9458-4ff1-95f8-70202916c679.methylation_array.sesame.level3betas.txt,M0,Stage I,Right Lower Outer Quadrant,[Not Available],M0_75B3FE55-1A63-426E-867E-2EF52F54778D
+40,f5e6b0a3-bdfb-4ca2-8199-f3ad14c5831f.methylation_array.sesame.level3betas.txt,M0,Stage IIB,Right Upper Inner Quadrant|Right Upper Outer Quadrant|Right,[Not Available],M0_18eb4dfc-556f-4bf3-a411-4780209ed1e0
+41,b504445f-170c-44ce-8a84-70db6930397f.methylation_array.sesame.level3betas.txt,M0,Stage IIB,Right Upper Inner Quadrant|Right Upper Outer Quadrant|Right,[Not Available],M0_18eb4dfc-556f-4bf3-a411-4780209ed1e0
+42,0f50a804-ed79-4354-80b9-ebf8b783baa7.methylation_array.sesame.level3betas.txt,M0,Stage IA,Right Lower Inner Quadrant|Right Lower Outer Quadrant|Right,[Not Available],M0_5a57dc25-d252-4b22-b192-4de630d7002f
+43,c6c78e7d-dde2-486d-83e1-6ffcf1cb0a95.methylation_array.sesame.level3betas.txt,M0,Stage IIIC,Left Upper Outer Quadrant|Left Lower Outer Quadrant|Left,[Not Available],M0_20e8106b-1290-4735-abe4-7621e08e3dc8
+44,2d9bd6d7-eff3-48c5-91d3-2afbee658537.methylation_array.sesame.level3betas.txt,M0,Stage IIIC,Left Upper Outer Quadrant|Left Lower Outer Quadrant|Left,[Not Available],M0_20e8106b-1290-4735-abe4-7621e08e3dc8
+45,67ddb58c-2a3f-4ba1-bb7d-de84777a8149.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Left Upper Outer Quadrant|Left,[Not Available],M0_e828455d-4680-41b2-8a1c-1582e3790d62
+46,8c115947-ab0e-465a-afe4-7d79000ba53c.methylation_array.sesame.level3betas.txt,M0,Stage I,Right Upper Outer Quadrant,[Not Available],M0_786e8dbe-442e-4551-87b3-b4c333b04dd4
+47,ac462234-cb5a-48aa-81cd-d002102b5ca5.methylation_array.sesame.level3betas.txt,M0,Stage IIB,Right,"Other, specify",M0_6b960b58-28e1-41c6-bd6e-7e669c6aa4ef
+48,546d4034-22c1-4dd1-ac67-d22533d7b647.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Left Upper Outer Quadrant,[Not Available],M0_9d166970-07c8-4ca3-9cfa-ed0049df9ecc
+49,a6d12216-92e7-4275-ac26-4bedf16af245.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Left Upper Outer Quadrant,[Not Available],M0_9d166970-07c8-4ca3-9cfa-ed0049df9ecc
+50,8dd3d85d-4ea8-4489-84b8-06073f2af354.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Right Upper Outer Quadrant,[Not Available],M0_b97bf89a-7a85-4eef-ae7e-f787aead1f0a
+51,ea024f6c-f954-481c-a63b-d63d23ec5410.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Right Upper Outer Quadrant,[Not Available],M0_b97bf89a-7a85-4eef-ae7e-f787aead1f0a
+52,b032f33f-22ce-48a7-8b20-c9c7cf690193.methylation_array.sesame.level3betas.txt,M1,Stage IV,Left Upper Outer Quadrant,Bone,M1_1783cac1-253a-40af-a9ac-48dfb20e1ab8
+53,e8c43120-5725-49a1-8d47-849b0bbe2671.methylation_array.sesame.level3betas.txt,M1,Stage IV,Left Upper Outer Quadrant,Bone,M1_1783cac1-253a-40af-a9ac-48dfb20e1ab8
+54,66b90af9-13e9-4b23-bf14-e333652cdf0e.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Right,[Not Available],M0_2DC1CEC9-925A-417F-9E21-3C2143E711B4
+55,4549c3d2-cc38-4fea-9091-36125a418a0c.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Right,[Not Available],M0_a855c228-a263-44df-87a0-cbc32187e3f5
+56,e13996a1-30c0-47fa-8161-114019201de2.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Right Upper Outer Quadrant,[Not Available],M0_70ab4f23-23c4-409f-a5cc-18a010c3a24e
+57,dc58db08-7f9c-45f6-b9af-4d732e20c2e9.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Left Upper Outer Quadrant,[Not Available],M0_4d51159f-ab2f-40e3-a363-847c3654431e
+58,9c53ea86-fcb2-405c-baa1-74874098921a.methylation_array.sesame.level3betas.txt,M0,Stage IIB,Left,[Not Available],M0_f0d8a1fe-e313-44f1-99cc-b965cbeeff0e
+59,719f12c9-eabb-4a12-b06a-84ccc2ce7811.methylation_array.sesame.level3betas.txt,M0,Stage IIIB,Left Upper Inner Quadrant,[Not Available],M0_959FF069-8A49-4C9B-85C2-5291CAC0ACFF
+60,ff0e4060-3c94-4869-b96f-f100c6f0ebd9.methylation_array.sesame.level3betas.txt,M0,Stage IIIA,Left Upper Outer Quadrant,[Not Available],M0_dcd5e079-813a-4c1a-b320-0931468d2bbc
+61,24df8213-c12c-44f4-9388-878b28ee4d56.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Left Lower Inner Quadrant,[Not Available],M0_aa4244a8-0454-4247-a1c3-357fd51746fa
+62,1e2a1464-e839-451b-97a4-691db83b3b58.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Right Upper Outer Quadrant,[Not Available],M0_3886b4fb-ba22-4a50-b11a-a6893951f170
+63,8a776b72-582b-4c17-a4e9-a8dbd8832163.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Right Upper Outer Quadrant,[Not Available],M0_1549dc64-3dab-43fc-96e9-b07d520957e1
+64,c384d75e-92de-4615-aa79-8418fd62e1eb.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Right Upper Outer Quadrant,[Not Available],M0_0dca98b0-f43e-45b6-9a02-00092c78678c
+65,451fc6b5-bd56-4240-b339-28342b51f3cd.methylation_array.sesame.level3betas.txt,M0,Stage IA,Left Upper Outer Quadrant,[Not Available],M0_ae65baeb-6b78-492a-8c63-bb7e93e83dc2
+66,476b9459-9ec8-4044-a87d-66a180a0c404.methylation_array.sesame.level3betas.txt,M0,Stage IIB,Right Upper Inner Quadrant,[Not Available],M0_752ad011-79e0-494f-9868-98bf6feb28f8
+67,c9e2bffb-c8f2-438e-8838-0889a9043d3e.methylation_array.sesame.level3betas.txt,M0,Stage IIIA,Right Upper Outer Quadrant,[Not Available],M0_791c5768-f0f5-4ab6-86eb-998e5c4b49e3
+68,2b7750a9-8df6-47f1-b9a3-474781b40d5c.methylation_array.sesame.level3betas.txt,M0,Stage IIIA,Right Upper Outer Quadrant,[Not Available],M0_791c5768-f0f5-4ab6-86eb-998e5c4b49e3
+69,7b899e0c-3fbe-43ca-89f9-c299b027e6a9.methylation_array.sesame.level3betas.txt,M0,Stage I,Right,[Not Available],M0_d8ecba6a-9fff-4993-a799-9a8d2aea524e
+70,ff910eab-3603-4714-ba6f-da9ed943b927.methylation_array.sesame.level3betas.txt,M0,Stage IA,Right Lower Outer Quadrant,[Not Available],M0_91a2f2af-e4b1-4a0b-ab20-6a36ce63c533
+71,d9f69f3f-ff4d-4d6f-9d45-5c881837fdfe.methylation_array.sesame.level3betas.txt,M0,Stage IA,Right Lower Outer Quadrant,[Not Available],M0_91a2f2af-e4b1-4a0b-ab20-6a36ce63c533
+72,19065cc1-3378-4dcd-a720-ff6368e2801e.methylation_array.sesame.level3betas.txt,M0,Stage IIB,Right Upper Outer Quadrant,[Not Available],M0_E3935CE4-64D3-4A66-BA11-D308B844B410
+73,c4229572-f151-481b-882d-c02f0dcd6b1b.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Left Upper Outer Quadrant,[Not Available],M0_521e2140-ae5b-456f-8699-97398d009687
+74,2cdc1bc6-adf1-4a04-9517-49257c4be2aa.methylation_array.sesame.level3betas.txt,M0,Stage IIIC,Left Upper Outer Quadrant,"Lung|Bone|Liver|Other, specify",M0_359f12f9-5c41-48a4-85bc-fd7e307bf7d8
+75,5ef3cb16-9bc8-4aac-9278-fddf491d9517.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Right Upper Outer Quadrant,[Not Available],M0_4da999a0-ef41-4a0b-b1d1-446b39cc855a
+76,6878992a-c754-4c08-ab9a-3b6e93de8a7b.methylation_array.sesame.level3betas.txt,M0,Stage IIIA,Left,[Not Available],M0_D9DC3B59-613D-469E-8B4F-6C5A557EB26A
+77,63b72249-ec2d-42c6-9f70-19318e48488c.methylation_array.sesame.level3betas.txt,M0,Stage II,Left|Left Upper Inner Quadrant,[Not Available],M0_5C59028F-B8FA-4811-8314-BE3EAED5F364
+78,0638193c-d118-4777-b360-6cc8d660a2ad.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Left Upper Outer Quadrant,[Not Available],M0_6E6B7742-A562-490B-BB72-04A5653852E4
+79,c2bed616-76d0-423b-aadb-e7fc44954477.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Left Lower Outer Quadrant,[Not Available],M0_D6F7AFC0-1558-43AD-ACB1-2B5311ED2264
+80,a4d5ecb1-1357-40fe-937f-7772f18d7299.methylation_array.sesame.level3betas.txt,M0,Stage I,Right Upper Outer Quadrant,[Not Available],M0_5700C1B3-922A-4401-8AB8-89028908D696
+81,45384fef-5dee-4252-b47a-c162b5abf775.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Left Upper Outer Quadrant,[Not Available],M0_124B693C-77DC-4FA8-B703-54E8B5054A92
+82,f35d0259-50d6-4a13-bc97-380421e20015.methylation_array.sesame.level3betas.txt,M1,Stage IV,Left|Left Lower Inner Quadrant,"Other, specify",M1_3E637872-F5E5-49D3-BB0D-9C16B8713382
+83,129be811-3758-4905-8ea0-7669742c9265.methylation_array.sesame.level3betas.txt,M1,Stage IV,Left|Left Upper Outer Quadrant,Bone|Liver,M1_FE2CD610-AA52-4789-AC62-7683281BB22F
+84,6b70879c-ab6f-4ed2-9f19-57558b01d140.methylation_array.sesame.level3betas.txt,M0,Stage IIA,Right|Right Upper Outer Quadrant,[Not Available],M0_23C31C2E-336C-4878-A476-CF8D811B4875
+85,73d36ca5-0c51-4fdd-8230-299fbd9869be.methylation_array.sesame.level3betas.txt,M1,Stage IV,Right|Right Upper Inner Quadrant|Right Upper Outer Quadrant|Right Lower Inner Quadrant|Right Lower Outer Quadrant,Bone|Liver,M1_45013972-2DFD-4F82-A076-E3E4AF1B43B8

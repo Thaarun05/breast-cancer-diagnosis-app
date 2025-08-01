@@ -1,0 +1,21 @@
+,patient_name,file_name,ajcc_metastasis_pathologic_pm,ajcc_pathologic_tumor_stage,anatomic_neoplasm_subdivision,metastasis_site,distinct_count
+0,M0_1133B8A9-6B11-4511-B70A-F200E3B8B5DB,3ed5c590-5c02-4b4e-aa20-01d848fc5205.methylation_array.sesame.level3betas.txt,M0,Stage I,Left Upper Inner Quadrant,Bone,1
+1,M0_359f12f9-5c41-48a4-85bc-fd7e307bf7d8,2cdc1bc6-adf1-4a04-9517-49257c4be2aa.methylation_array.sesame.level3betas.txt,M0,Stage IIIC,Left Upper Outer Quadrant,"Lung|Bone|Liver|Other, specify",1
+2,M0_376FFE63-EFD7-42AF-90E1-261255B28BB7,751a8bbc-be4f-4a6c-9492-3f02d5565d82.methylation_array.sesame.level3betas.txt,M0,Stage III,Right Upper Outer Quadrant,Bone|Liver,1
+3,M0_6b960b58-28e1-41c6-bd6e-7e669c6aa4ef,ac462234-cb5a-48aa-81cd-d002102b5ca5.methylation_array.sesame.level3betas.txt,M0,Stage IIB,Right,"Other, specify",1
+4,M0_9ad603dc-3fd0-44f5-ae4e-64eeb1ae8d6d,744ef746-c7f0-4834-a484-e8c11a55e2d6.methylation_array.sesame.level3betas.txt,M0,Stage IIIA,Left Lower Outer Quadrant,Bone|Liver,1
+5,M1_128d198e-9b22-427c-90db-3714455f3a17,e67c69a7-6161-4dd5-9efe-9d13e632989a.methylation_array.sesame.level3betas.txt,M1,Stage IV,Right,Liver,1
+6,M1_16FC3677-0393-4ED1-AD3F-C8355F056369,57770094-b4ac-4ea7-9e37-3ec739bc4367.methylation_array.sesame.level3betas.txt,M1,Stage IV,Left,Bone,1
+7,M1_1783cac1-253a-40af-a9ac-48dfb20e1ab8,b032f33f-22ce-48a7-8b20-c9c7cf690193.methylation_array.sesame.level3betas.txt,M1,Stage IV,Left Upper Outer Quadrant,Bone,1
+8,M1_1783cac1-253a-40af-a9ac-48dfb20e1ab8,e8c43120-5725-49a1-8d47-849b0bbe2671.methylation_array.sesame.level3betas.txt,M1,Stage IV,Left Upper Outer Quadrant,Bone,1
+9,M1_3E637872-F5E5-49D3-BB0D-9C16B8713382,f35d0259-50d6-4a13-bc97-380421e20015.methylation_array.sesame.level3betas.txt,M1,Stage IV,Left|Left Lower Inner Quadrant,"Other, specify",1
+10,M1_45013972-2DFD-4F82-A076-E3E4AF1B43B8,73d36ca5-0c51-4fdd-8230-299fbd9869be.methylation_array.sesame.level3betas.txt,M1,Stage IV,Right|Right Upper Inner Quadrant|Right Upper Outer Quadrant|Right Lower Inner Quadrant|Right Lower Outer Quadrant,Bone|Liver,1
+11,M1_9434687A-197C-4959-B6B8-9C05F1DD7F53,c8e84511-71ce-4938-a374-99980bf6d7ba.methylation_array.sesame.level3betas.txt,M1,Stage IV,Left Upper Inner Quadrant,Bone,1
+12,M1_991e1427-3c01-423d-abfd-4584302ca72c,e69ebfcf-b83c-4483-8726-1b7113323600.methylation_array.sesame.level3betas.txt,M1,Stage IV,Right,Liver,1
+13,M1_ad01259b-d858-40bc-a6ba-0bb06e996afb,88b4cc0a-4dba-4dd4-9cf6-7e1a532aa9e7.methylation_array.sesame.level3betas.txt,M1,Stage IV,Right,Bone,1
+14,M1_c7c34fd9-3021-45b7-b6ff-30b4196585a8,09dc9b98-3cb3-4b2f-81cd-c834483f967c.methylation_array.sesame.level3betas.txt,M1,[Discrepancy],Left Upper Outer Quadrant,Bone,1
+15,M1_D5F2B85A-94A9-4168-BBE8-149EC71342B0,a8bcda7e-2981-4cb0-b528-57845bf7507b.methylation_array.sesame.level3betas.txt,M1,Stage IV,Right Lower Outer Quadrant,Bone,1
+16,M1_FE2CD610-AA52-4789-AC62-7683281BB22F,129be811-3758-4905-8ea0-7669742c9265.methylation_array.sesame.level3betas.txt,M1,Stage IV,Left|Left Upper Outer Quadrant,Bone|Liver,1
+17,MX_2BCACFD1-6A45-4B96-9B80-2AD569B1AB45,ad63ff72-1941-4b1a-ba4b-58eb41ccccd5.methylation_array.sesame.level3betas.txt,MX,Stage IIIA,Left|Left Upper Inner Quadrant|Left Lower Inner Quadrant,"Lung|Other, specify",1
+18,MX_EA8DBC7A-54C6-469C-865E-F49D00B0223D,5263c9e0-ab2d-4f10-a9b7-985712f6d459.methylation_array.sesame.level3betas.txt,MX,Stage IIIA,Right Upper Outer Quadrant,Lung|Bone,1
+19,MX_f2e28af9-c40e-41c4-9e82-205cca38f26a,9a6f0a33-4a3c-47e7-9be2-cc9abb63c197.methylation_array.sesame.level3betas.txt,MX,Stage IIIC,Right Upper Outer Quadrant,Lung,1
